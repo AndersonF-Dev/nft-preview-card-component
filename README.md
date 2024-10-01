@@ -11,7 +11,7 @@ Esta é uma solução para o [Desafio da página componente de cartão de visual
 ### Link
 
 
-- URL do site ativo: [link aqui](https://andersonf-dev.github.io/blog-preview-card/)
+- URL do site ativo: [link aqui](https://andersonf-dev.github.io/nft-preview-card-component/)
 
 
 
