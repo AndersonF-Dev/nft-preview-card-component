@@ -5,7 +5,7 @@ Esta é uma solução para o [Desafio da página componente de cartão de visual
 
 ### Screenshot
 
-[<img src="preview.gif" alt="gif da tela inicial do projeto cartão de visualização NFT">]
+[<img src="images/preview.gif" alt="gif da tela inicial do projeto cartão de visualização NFT">]
 
 
 ### Link
