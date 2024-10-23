@@ -4,6 +4,7 @@ body {
     font-family: "Outfit", sans-serif;
     background-color: hsl(217, 54%, 11%);
     color: hsl(0, 0%, 100%);
+
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -16,6 +17,7 @@ body {
     height: 660px;
     border-radius: 20px;
     padding: 25px;
+    margin-top: 10%;
     color: hsl(215, 51%, 70%);
 }
 
